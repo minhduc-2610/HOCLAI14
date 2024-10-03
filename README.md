@@ -1,3 +1,4 @@
+![Your Banner Image](link-to-your-banner-image)
 ## 👋 Hello! I'm Minh Duc
 - 💻 Software Engineer
 - 🚀 Interested in Open Source Projects
